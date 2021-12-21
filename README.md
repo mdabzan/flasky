@@ -1,6 +1,6 @@
 # flasky
 
-This repository is to maintain a flask based rest API's used for developing test automations.
+A simple flask based rest API's.
 
 Requirements:
 
